@@ -1,0 +1,38 @@
+.home1{
+  background: url(img/background.jpg);
+  background-size: cover;
+}
+
+.home2{
+  background-color: #b3d4fc;
+}
+
+.bio2 {
+  box-sizing: border-box;
+  padding: 20vh 6vw;
+}
+
+.img2{
+  float: left;
+  
+}
+
+.p1{
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 38px;
+  line-height: 1.6em;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 1em;
+  color: #121212;
+  margin-left: 20%;
+}
+
+.container{
+  margin-top: 10%;
+}
+
+.borderBio{
+  border-radius: 10%;
+  border-color: red;
+}
